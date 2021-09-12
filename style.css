@@ -1,0 +1,68 @@
+.container{
+    margin-bottom: 100px;
+}
+.orange-bg{
+    background-color: #feeae9;
+    border-radius: 10px;
+} 
+.carousel-item{
+    padding: 20px 40px;
+}
+.container-categorics{
+    margin-top: 100px;
+}
+.price{
+    color: #FF136F;
+}
+.color-button{
+    background-image: linear-gradient(to bottom, #eb2c78 0%, #FF136F 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 12px 25px;
+    cursor: pointer;
+    font-size: 20px;
+}
+.watch, .bag, .shoes{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.watch{
+    background-color: orange;
+}
+.bag{
+    background-color: blueviolet;
+}
+.shoes{
+    background-color: cyan;
+}
+.container-categorics h1{
+    color: white;
+}
+.container-categorics img{
+    width: 100px;
+}
+.container-categorics{
+    border-radius: 50x;
+}
+#backpack{
+    margin-top: 10%;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 15px 15px 20px lightgray;
+}
+.card-footer{
+    background-color: #fff;
+    margin-top: none;
+}
+#Submit{
+    height: 300px;
+}
+#Submit h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
