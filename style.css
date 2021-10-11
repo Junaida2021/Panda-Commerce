@@ -28,13 +28,13 @@
     border-radius: 10px;
 }
 .watch{
-    background-color: orange;
+    background-color:rgb(255, 51, 153);
 }
 .bag{
-    background-color: blueviolet;
+    background-color:rgb(102, 204, 255);
 }
 .shoes{
-    background-color: cyan;
+    background-color: rgb(102, 153, 0);
 }
 .container-categorics h1{
     color: white;
@@ -56,6 +56,9 @@
 .card-footer{
     background-color: #fff;
     margin-top: none;
+}
+.form-control{
+    margin-bottom: 10px;
 }
 #Submit{
     height: 300px;
